@@ -1,0 +1,119 @@
+/***************************************************************
+***********  Theme primary  Color ******************************/
+a:hover,
+.news span,
+.video-tabs-widget .vertical-tab-navs li i,
+.contact-list ul li i,
+.quick-links ul li a::before,
+.post-features li:before,
+.post-features li:hover,
+.datepicker .prev, 
+.datepicker .next,
+.res-menu-holder p .fa-heart,
+#comming-countdown li span,
+.product-detail .reviews li,
+.product-detail span,
+.product-info-holder p .price,
+.text-red,
+.btn.red:hover,
+.error-2 h2,
+.auther-info .auther-name a,
+.c-color,
+.cr-nav > ul > li > a:hover,
+.cr-nav > ul > li.active > a,
+.cate-tab-navs ul li.active a,
+.side-bar .populer-tags li a
+{ color: #dc4a29;} 
+
+/* Theme Backgroung Color */
+.owl-nav .owl-next:hover:after,
+.owl-nav .owl-prev:hover:after,
+.btn.red,
+.populer-tags ul li a:hover,
+.calendar .datepicker table tr td.day:hover,
+.calendar .datepicker table tr td.day.focused,
+#comming-countdown li span::before,
+.switcher h2 a,
+.scrollup,
+#preloader,
+.quantity span,
+#popup-btn,
+.header-2,
+.primary-heading h2::before,
+.secondry-heading:before,
+.aside .widget > h3,
+.tag,
+.caption > span,
+.headline-wrap .badge,
+.archieve-tabs .theme-tab-navs li.active a,
+.news-ticker .badge,
+.news-item-holder .thumb-over span,
+.pagination > li.active a,
+.current-post-type
+{ background: #dc4a29;}
+
+/* Theme Border Color */
+.populer-tags ul li a,
+.btn.red,
+.cr-nav > ul > li > ul li a,
+.cr-nav > ul > li > ul li a:hover,
+#thumbnail-slider div.inner > ul > li.active,
+.footer,
+.gallery-thumbnail ul > li.flex-active-slide,
+.cr-nav > ul > li > ul li.active a,
+.owl-dots .owl-dot.active,
+.secondry-heading,
+.categories-widget li a:hover,
+.cate-tab-navs ul li.active a,
+.gallery-slider-thumb a.active,
+.pagination > li.active a
+{ border-color: #dc4a29;}
+
+/* THeme Basic Rgba */
+input.form-control:focus{
+    border-color: #dc4a29;
+    outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(220,74,41,0.6);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(220,74,41,0.6);
+ }
+#thumbnail-slider-next::before,
+#thumbnail-slider-prev::before{border-left:4px solid #dc4a29; border-top:4px solid #dc4a29;}
+
+
+/***************************************************************
+***********  Theme secondry  Color ******************************/
+a:hover,
+.reviews li,
+.twitter-brand-name i.fa-twitter,
+.site-link a,
+.btn.green:hover,
+.post-thumb .thumb-hover a:hover,
+.faq-categories ul li a:hover
+{ color: #129793;} 
+
+/* Theme Backgroung Color */
+.top-right li a span,
+.horizontal-tabs-widget .theme-tab-navs li.active a,
+.post-badge,
+.double-bounce1,
+.double-bounce2,
+.btn.green,
+.owl-theme .owl-dots .owl-dot.active span,
+.res-nav li a:hover,
+.faq-categories,
+.faq-accordion li.panel [aria-expanded="true"] h4,
+.post-thumb .thumb-hover a
+{ background: #129793;}
+
+/* Theme Border Color */
+.owl-theme .owl-dots .owl-dot span,
+.btn.green,
+.faq-accordion li.panel [aria-expanded="true"] h4,
+.faq-accordion li .panel-collapse .faq-desc,
+.post-thumb .thumb-hover a,
+.faq-categories ul li a:hover
+{ border-color: #129793;}
+
+
+.inner-logo{background: url(../images/logos/logo-1.png) no-repeat; width: 215px; height: 36px; background-size: 100%;}
+.inner-logo-2{background: url(../images/logos/s-logo-1.png) no-repeat; width: 215px; height: 36px; background-size: 100%;}

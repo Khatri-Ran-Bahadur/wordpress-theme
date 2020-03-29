@@ -1,0 +1,33 @@
+/* Theme transition Effect */
+*:after,
+*:before,
+a,
+p,
+h1,h2,h3,h4,h5,h6,
+button,
+.blog-social ul li,
+.product-holder,
+.product-hover,
+.product-holder img,
+.post-thumb img,
+.post-badge,
+.flicker-imgs-list ul li img,
+.cr-nav li > ul,
+.post-detail img,
+.post-thumb .thumb-hover,
+.gallery-thumbnail li img,
+.owl-dot,
+.categories-widget li em,
+.auther-slider-thumb a img
+{-webkit-transition: all 0.4s ease-in-out;
+-moz-transition: all 0.4s ease-in-out;
+-ms-transition: all 0.4s ease-in-out;
+-o-transition: all 0.4s ease-in-out;
+transition: all 0.4s ease-in-out;}
+
+
+
+
+
+
+
